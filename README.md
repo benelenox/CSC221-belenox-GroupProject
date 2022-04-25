@@ -8,4 +8,4 @@ __Project Description:__ Project to gather information on the size of Wikipedia 
 
 __Webscraped URL:__ Wikipedia: Size of Wikipedia [ URL: https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia ]
 
-__Collaborator:__ Hagar Wati (hwati@my.waketech.edu)
+__Collaborator:__ Hagar Wati (hwati@my.waketech.edu)Accepted 
